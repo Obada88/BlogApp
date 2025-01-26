@@ -1,0 +1,8 @@
+{
+    "editor.cursorBlinking": "smooth",
+    "terminal.integrated.altClickMovesCursor": true,
+    "terminal.integrated.cursorStyleInactive": "line",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorSmoothCaretAnimation": "off",
+    "editor.cursorStyle": "line"
+}
